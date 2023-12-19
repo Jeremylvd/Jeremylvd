@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeremylvd
 - 👀 I’m interested in listening to music, gym, wachting movies/series, gaming, codeing, do fun things with friends
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP on Rijnijssel software development
 - 📫 How to reach me discord: justjeremy13
 
 <!---
